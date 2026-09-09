@@ -7,7 +7,7 @@ const NewCollections = () => {
   const [new_collection, setNew_collection] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:4005/newcollections').then((response) => response.json()).then((data) => setNew_collection(data));
+    fetch('https://shubhvika-backend.vercel.app/newcollections').then((response) => response.json()).then((data) => setNew_collection(data));
   }, [])
 
 

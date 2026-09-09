@@ -15,10 +15,10 @@ const ShopContextProvider = (props) => {
   const [cartItems, setCartItems] = useState(getDefaultCart());
 
   useEffect(() => {
-    fetch('http://localhost:4005/allproducts').then((res) => res.json()).then((data) => setAll_Product(data))
+    fetch('https://shubhvika-backend.vercel.app/allproducts').then((res) => res.json()).then((data) => setAll_Product(data))
 
     if (localStorage.getItem('auth-token')) {
-      fetch('http://localhost:4005/getcart', {
+      fetch('https://shubhvika-backend.vercel.app/getcart', {
         method: 'POST',
         headers: {
           Accept: 'application/form-data',
@@ -33,7 +33,7 @@ const ShopContextProvider = (props) => {
   const addToCart = (itemId) => {
     setCartItems((prev) => ({ ...prev, [itemId]: prev[itemId] + 1 }));
     if (localStorage.getItem('auth-token')) {
-      fetch('http://localhost:4005/addtocart', {
+      fetch('https://shubhvika-backend.vercel.app/addtocart', {
         method: 'POST',
         headers: {
           Accept: 'application/form-data',
@@ -50,7 +50,7 @@ const ShopContextProvider = (props) => {
   const removeFromCart = (itemId) => {
     setCartItems((prev) => ({ ...prev, [itemId]: prev[itemId] - 1 }));
     if (localStorage.getItem('auth-token')) {
-      fetch('http://localhost:4005/removefromcart', {
+      fetch('https://shubhvika-backend.vercel.app/removefromcart', {
         method: 'POST',
         headers: {
           Accept: 'application/form-data',
