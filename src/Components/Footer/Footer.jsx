@@ -13,9 +13,9 @@ const Footer = () => {
         <img
           style={{ width: "140px" }}
           src={footer_logo}
-          alt="HIMAANIX"
+          alt="SHUBHVIKA"
         />
-        <p>HIMAANIX</p>
+        <p>SHUBHVIKA</p>
       </div>
 
       <ul className="footer-links">

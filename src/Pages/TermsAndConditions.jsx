@@ -12,12 +12,12 @@ const TermsAndConditions = () => {
 
                 <div className="policy-content">
                     <p>
-                        Welcome to HIMAANIX.
+                        Welcome to SHUBHVIKA.
                     </p>
 
                     <p>
                         These Terms & Conditions ("Terms", "Terms and Conditions") govern
-                        your access to and use of the HIMAANIX website and your purchase
+                        your access to and use of the SHUBHVIKA website and your purchase
                         of products through the website.
                     </p>
 
@@ -32,15 +32,15 @@ const TermsAndConditions = () => {
                     </p>
 
                     <section>
-                        <h2>1. About HIMAANIX</h2>
+                        <h2>1. About SHUBHVIKA</h2>
 
                         <p>
-                            HIMAANIX operates an online platform through which customers may
+                            SHUBHVIKA operates an online platform through which customers may
                             browse and purchase products offered through the website.
                         </p>
 
                         <p>
-                            The term "HIMAANIX", "we", "us", and "our" refers to HIMAANIX
+                            The term "SHUBHVIKA", "we", "us", and "our" refers to SHUBHVIKA
                             and the applicable business or entity operating the website.
                         </p>
                     </section>
@@ -92,7 +92,7 @@ const TermsAndConditions = () => {
                         </ul>
 
                         <p>
-                            HIMAANIX may suspend or restrict access where misuse or
+                            SHUBHVIKA may suspend or restrict access where misuse or
                             unauthorized activity is suspected.
                         </p>
                     </section>
@@ -155,7 +155,7 @@ const TermsAndConditions = () => {
 
                         <p>A product may become unavailable without prior notice.</p>
 
-                        <p>HIMAANIX reserves the right to:</p>
+                        <p>SHUBHVIKA reserves the right to:</p>
 
                         <ul>
                             <li>Limit quantities</li>
@@ -186,7 +186,7 @@ const TermsAndConditions = () => {
                         </p>
 
                         <p>
-                            In the event of an obvious pricing or technical error, HIMAANIX
+                            In the event of an obvious pricing or technical error, SHUBHVIKA
                             reserves the right to correct the error and, where appropriate,
                             cancel affected orders.
                         </p>
@@ -206,7 +206,7 @@ const TermsAndConditions = () => {
                         </p>
 
                         <p>
-                            HIMAANIX may cancel or refuse an order where reasonably
+                            SHUBHVIKA may cancel or refuse an order where reasonably
                             necessary, including in cases involving:
                         </p>
 
@@ -224,7 +224,7 @@ const TermsAndConditions = () => {
 
                         <p>
                             If payment has already been collected for an order that is
-                            cancelled by HIMAANIX, the applicable amount will be refunded in
+                            cancelled by SHUBHVIKA, the applicable amount will be refunded in
                             accordance with our Refund & Cancellation Policy and applicable
                             law.
                         </p>
@@ -242,7 +242,7 @@ const TermsAndConditions = () => {
                         </p>
 
                         <p>
-                            HIMAANIX does not generally receive or store your complete
+                            SHUBHVIKA does not generally receive or store your complete
                             payment credentials when payment is processed through a
                             third-party payment gateway.
                         </p>
@@ -286,11 +286,11 @@ const TermsAndConditions = () => {
 
                         <p>
                             Returns, replacements, cancellations, and refunds are governed
-                            by the HIMAANIX Refund & Cancellation Policy.
+                            by the SHUBHVIKA Refund & Cancellation Policy.
                         </p>
 
                         <p>
-                            By purchasing from HIMAANIX, you agree to comply with the
+                            By purchasing from SHUBHVIKA, you agree to comply with the
                             applicable requirements of that policy.
                         </p>
                     </section>
@@ -299,7 +299,7 @@ const TermsAndConditions = () => {
                         <h2>12. Intellectual Property</h2>
 
                         <p>
-                            Unless otherwise stated, all content available on the HIMAANIX
+                            Unless otherwise stated, all content available on the SHUBHVIKA
                             website, including:
                         </p>
 
@@ -318,7 +318,7 @@ const TermsAndConditions = () => {
                         </ul>
 
                         <p>
-                            is owned by or licensed to HIMAANIX and may be protected by
+                            is owned by or licensed to SHUBHVIKA and may be protected by
                             applicable intellectual-property laws.
                         </p>
 
@@ -334,7 +334,7 @@ const TermsAndConditions = () => {
 
                         <p>
                             If you submit reviews, comments, photographs, feedback,
-                            testimonials, or other content to HIMAANIX, you represent that:
+                            testimonials, or other content to SHUBHVIKA, you represent that:
                         </p>
 
                         <ul>
@@ -348,7 +348,7 @@ const TermsAndConditions = () => {
                         </ul>
 
                         <p>
-                            To the extent permitted by law, you grant HIMAANIX a
+                            To the extent permitted by law, you grant SHUBHVIKA a
                             non-exclusive, worldwide, royalty-free license to use,
                             reproduce, display, publish, and distribute such content for
                             legitimate business and promotional purposes.
@@ -365,7 +365,7 @@ const TermsAndConditions = () => {
                         </p>
 
                         <p>
-                            HIMAANIX is not responsible for the independent acts, policies,
+                            SHUBHVIKA is not responsible for the independent acts, policies,
                             availability, or practices of third-party services.
                         </p>
                     </section>
@@ -374,12 +374,12 @@ const TermsAndConditions = () => {
                         <h2>15. Links to Third-Party Websites</h2>
 
                         <p>
-                            The HIMAANIX website may contain links to external websites.
+                            The SHUBHVIKA website may contain links to external websites.
                         </p>
 
                         <p>
                             These links are provided for convenience and do not necessarily
-                            mean that HIMAANIX endorses those websites.
+                            mean that SHUBHVIKA endorses those websites.
                         </p>
 
                         <p>
@@ -396,7 +396,7 @@ const TermsAndConditions = () => {
                             and its content are provided on an "as available" basis.
                         </p>
 
-                        <p>HIMAANIX does not guarantee that:</p>
+                        <p>SHUBHVIKA does not guarantee that:</p>
 
                         <ul>
                             <li>The website will always be available.</li>
@@ -416,7 +416,7 @@ const TermsAndConditions = () => {
                         <h2>17. Limitation of Liability</h2>
 
                         <p>
-                            To the maximum extent permitted by applicable law, HIMAANIX will
+                            To the maximum extent permitted by applicable law, SHUBHVIKA will
                             not be liable for indirect, incidental, special, consequential,
                             or punitive losses arising from the use of the website or
                             products, except where such liability cannot legally be excluded.
@@ -433,7 +433,7 @@ const TermsAndConditions = () => {
 
                         <p>
                             To the extent permitted by applicable law, you agree to
-                            indemnify and hold HIMAANIX and its applicable representatives,
+                            indemnify and hold SHUBHVIKA and its applicable representatives,
                             employees, contractors, and service providers harmless from
                             claims, losses, liabilities, damages, and expenses arising from:
                         </p>
@@ -451,7 +451,7 @@ const TermsAndConditions = () => {
                         <h2>19. Suspension or Termination</h2>
 
                         <p>
-                            HIMAANIX may suspend or terminate access to an account or
+                            SHUBHVIKA may suspend or terminate access to an account or
                             website functionality where reasonably necessary, including
                             where:
                         </p>
@@ -471,7 +471,7 @@ const TermsAndConditions = () => {
                         <h2>20. Force Majeure</h2>
 
                         <p>
-                            HIMAANIX will not be responsible for delays or failures caused
+                            SHUBHVIKA will not be responsible for delays or failures caused
                             by circumstances beyond its reasonable control, including:
                         </p>
 
@@ -510,7 +510,7 @@ const TermsAndConditions = () => {
                         <h2>22. Changes to These Terms</h2>
 
                         <p>
-                            HIMAANIX may update these Terms from time to time.
+                            SHUBHVIKA may update these Terms from time to time.
                         </p>
 
                         <p>
@@ -552,7 +552,7 @@ const TermsAndConditions = () => {
                         <p>
                             Subject to applicable consumer-protection and other mandatory
                             laws, disputes shall be subject to the jurisdiction of the
-                            competent courts having jurisdiction over the applicable HIMAANIX
+                            competent courts having jurisdiction over the applicable SHUBHVIKA
                             business or entity.
                         </p>
 
@@ -566,12 +566,12 @@ const TermsAndConditions = () => {
                         <h2>26. Contact Us</h2>
 
                         <div className="contact-box">
-                            <strong>HIMAANIX</strong>
+                            <strong>SHUBHVIKA</strong>
                             <p>
-                                <strong>Email:</strong> ksinghamandl@gmail.com
+                                <strong>Email:</strong> vc296027@gmail.com
                             </p>
                             <p>
-                                <strong>Phone:</strong> +91 7428041489
+                                <strong>Phone:</strong> +91 8796117855
                             </p>
 
                         </div>

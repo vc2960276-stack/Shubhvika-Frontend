@@ -12,7 +12,7 @@ const RefundPolicy = () => {
 
                 <div className="policy-content">
                     <p>
-                        Thank you for shopping with HIMAANIX.
+                        Thank you for shopping with SHUBHVIKA.
                     </p>
 
                     <p>
@@ -22,7 +22,7 @@ const RefundPolicy = () => {
                     </p>
 
                     <p>
-                        By placing an order through the HIMAANIX website, you agree to the
+                        By placing an order through the SHUBHVIKA website, you agree to the
                         terms of this policy.
                     </p>
 
@@ -40,7 +40,7 @@ const RefundPolicy = () => {
                         </p>
 
                         <p>
-                            To request cancellation, contact HIMAANIX as soon as possible
+                            To request cancellation, contact SHUBHVIKA as soon as possible
                             using the official contact details provided on our website.
                         </p>
 
@@ -72,7 +72,7 @@ const RefundPolicy = () => {
                         </ul>
 
                         <p>
-                            Returns are subject to verification by HIMAANIX.
+                            Returns are subject to verification by SHUBHVIKA.
                         </p>
                     </section>
 
@@ -133,7 +133,7 @@ const RefundPolicy = () => {
                         </p>
 
                         <p>
-                            After verification, HIMAANIX may provide an appropriate
+                            After verification, SHUBHVIKA may provide an appropriate
                             resolution, which may include replacement, return, or refund,
                             depending on the circumstances.
                         </p>
@@ -163,7 +163,7 @@ const RefundPolicy = () => {
                         <h2>7. Return Process</h2>
 
                         <p>
-                            If your return request is approved, HIMAANIX will provide
+                            If your return request is approved, SHUBHVIKA will provide
                             instructions for returning the product.
                         </p>
 
@@ -194,7 +194,7 @@ const RefundPolicy = () => {
                         </p>
 
                         <p>
-                            HIMAANIX is not responsible for delays caused by third-party
+                            SHUBHVIKA is not responsible for delays caused by third-party
                             financial institutions after the refund has been successfully
                             initiated by us.
                         </p>
@@ -204,7 +204,7 @@ const RefundPolicy = () => {
                         <h2>9. Partial Refunds</h2>
 
                         <p>
-                            In certain circumstances, HIMAANIX may provide a partial refund
+                            In certain circumstances, SHUBHVIKA may provide a partial refund
                             instead of a full refund.
                         </p>
 
@@ -223,13 +223,13 @@ const RefundPolicy = () => {
 
                         <p>
                             Unless otherwise required by applicable law or expressly agreed
-                            by HIMAANIX, original shipping charges may not be refundable.
+                            by SHUBHVIKA, original shipping charges may not be refundable.
                         </p>
 
                         <p>
-                            Where the return is due to an error attributable to HIMAANIX,
+                            Where the return is due to an error attributable to SHUBHVIKA,
                             such as dispatching the wrong product or delivering a verified
-                            defective product, HIMAANIX may provide an appropriate
+                            defective product, SHUBHVIKA may provide an appropriate
                             shipping-cost resolution.
                         </p>
                     </section>
@@ -251,7 +251,7 @@ const RefundPolicy = () => {
                         </ul>
 
                         <p>
-                            The order may be returned to HIMAANIX.
+                            The order may be returned to SHUBHVIKA.
                         </p>
 
                         <p>
@@ -295,7 +295,7 @@ const RefundPolicy = () => {
                         <h2>14. How to Request a Refund or Return</h2>
 
                         <p>
-                            Please contact HIMAANIX through the official customer-support
+                            Please contact SHUBHVIKA through the official customer-support
                             contact details listed on our website.
                         </p>
 
@@ -325,7 +325,7 @@ const RefundPolicy = () => {
                         </p>
 
                         <p>
-                            HIMAANIX reserves the right to reject a request where the
+                            SHUBHVIKA reserves the right to reject a request where the
                             product or circumstances do not meet the applicable eligibility
                             requirements, subject always to applicable law.
                         </p>
@@ -335,7 +335,7 @@ const RefundPolicy = () => {
                         <h2>16. Policy Changes</h2>
 
                         <p>
-                            HIMAANIX may modify this Refund & Cancellation Policy from time
+                            SHUBHVIKA may modify this Refund & Cancellation Policy from time
                             to time.
                         </p>
 
@@ -349,12 +349,12 @@ const RefundPolicy = () => {
                         <h2>17. Contact Us</h2>
 
                         <div className="contact-box">
-                            <strong>HIMAANIX</strong>
+                            <strong>SHUBHVIKA</strong>
                             <p>
-                                <strong>Email:</strong> ksinghamandl@gmail.com
+                                <strong>Email:</strong> vc296027@gmail.com
                             </p>
                             <p>
-                                <strong>Phone:</strong> +91 7428041489
+                                <strong>Phone:</strong> +91 8796117855
                             </p>
 
                         </div>

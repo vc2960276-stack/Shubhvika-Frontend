@@ -12,7 +12,7 @@ const PrivacyPolicy = () => {
 
                 <div className="policy-content">
                     <p>
-                        HIMAANIX ("HIMAANIX", "we", "us", or "our") respects your privacy
+                        SHUBHVIKA ("SHUBHVIKA", "we", "us", or "our") respects your privacy
                         and is committed to protecting the personal information you share
                         with us.
                     </p>
@@ -25,7 +25,7 @@ const PrivacyPolicy = () => {
                     </p>
 
                     <p>
-                        By accessing or using the HIMAANIX website, you acknowledge that
+                        By accessing or using the SHUBHVIKA website, you acknowledge that
                         you have read and understood this Privacy Policy.
                     </p>
 
@@ -56,7 +56,7 @@ const PrivacyPolicy = () => {
                         </p>
 
                         <p>
-                            HIMAANIX generally does not directly store complete debit card,
+                            SHUBHVIKA generally does not directly store complete debit card,
                             credit card, UPI credentials, banking passwords, or other
                             sensitive payment credentials on its own servers.
                         </p>
@@ -141,7 +141,7 @@ const PrivacyPolicy = () => {
                         <h2>3. Order and Transaction Information</h2>
 
                         <p>
-                            When you place an order with HIMAANIX, we may retain information
+                            When you place an order with SHUBHVIKA, we may retain information
                             relating to the order, including:
                         </p>
 
@@ -209,7 +209,7 @@ const PrivacyPolicy = () => {
                         <h2>6. Data Security</h2>
 
                         <p>
-                            HIMAANIX takes reasonable technical and organizational measures
+                            SHUBHVIKA takes reasonable technical and organizational measures
                             to protect personal information against unauthorized access,
                             alteration, disclosure, misuse, or destruction.
                         </p>
@@ -260,7 +260,7 @@ const PrivacyPolicy = () => {
                         <h2>9. Marketing Communications</h2>
 
                         <p>
-                            Where permitted by law, HIMAANIX may send promotional emails,
+                            Where permitted by law, SHUBHVIKA may send promotional emails,
                             SMS messages, WhatsApp messages, or other communications
                             regarding products, offers, launches, and updates.
                         </p>
@@ -297,7 +297,7 @@ const PrivacyPolicy = () => {
                         </p>
 
                         <p>
-                            HIMAANIX is not responsible for the privacy practices, security,
+                            SHUBHVIKA is not responsible for the privacy practices, security,
                             or content of third-party services.
                         </p>
                     </section>
@@ -320,12 +320,12 @@ const PrivacyPolicy = () => {
                         <h2>13. Contact Us</h2>
 
                         <div className="contact-box">
-                            <strong>HIMAANIX</strong>
+                            <strong>SHUBHVIKA</strong>
                             <p>
-                                <strong>Email:</strong> ksinghamandl@gmail.com
+                                <strong>Email:</strong> vc296027@gmail.com
                             </p>
                             <p>
-                                <strong>Phone:</strong> +91 7428041489
+                                <strong>Phone:</strong> +91 8796117855
                             </p>
                             
                         </div>
