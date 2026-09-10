@@ -10,7 +10,9 @@ import Footer from "./Components/Footer/Footer";
 import men_banner from "./Components/Assets/banner_mens.png";
 import women_banner from "./Components/Assets/banner_women.png";
 import kid_banner from "./Components/Assets/banner_kids.png";
-
+import PrivacyPolicy from "./Pages/PrivacyPolicy";
+import RefundPolicy from "./Pages/RefundPolicy";
+import TermsAndConditions from "./Pages/TermsAndConditions";
 function App() {
   return (
     <div>
@@ -19,16 +21,32 @@ function App() {
         <Routes>
           <Route path="/" element={<Shop />} />
           <Route
-            path="/mens"
-            element={<ShopCategory banner={men_banner} category="men" />}
+            path="/privacy-policy"
+            element={<PrivacyPolicy />}
           />
+
+          <Route
+            path="/refund-policy"
+            element={<RefundPolicy />}
+          />
+
+          <Route
+            path="/terms-and-conditions"
+            element={<TermsAndConditions />}
+          />
+          <Route
+            path="/mens"
+            element={<ShopCategory banner={men_banner} category="Men" />}
+          />
+
           <Route
             path="/womens"
-            element={<ShopCategory banner={women_banner} category="women" />}
+            element={<ShopCategory banner={women_banner} category="Women" />}
           />
+
           <Route
             path="/kids"
-            element={<ShopCategory banner={kid_banner} category="kid" />}
+            element={<ShopCategory banner={kid_banner} category="Kids" />}
           />
           <Route path="/product" element={<Product />}>
             <Route path=":productId" element={<Product />} />

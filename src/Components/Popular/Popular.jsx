@@ -3,27 +3,41 @@ import "./Popular.css";
 import Item from "../Item/Item";
 
 const Popular = () => {
-
   const [popularProducts, setPopularProducts] = useState([]);
 
   useEffect(() => {
-    fetch('https://shubhvika-backend.vercel.app/popularinwomen').then((response) => response.json()).then((data) => setPopularProducts(data));
+    fetch("/products.json")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        return response.json();
+      })
+      .then((data) => {
+        console.log("JSON DATA:", data);
+        setPopularProducts(data.products);
+      })
+      .catch((error) => {
+        console.error("Error loading products:", error);
+      });
   }, []);
 
   return (
     <div className="popular">
       <h1>POPULAR IN WOMEN</h1>
       <hr />
+
       <div className="popular-item">
-        {popularProducts.map((item, i) => {
+        {popularProducts.map((item) => {
           return (
             <Item
-              key={i}
+              key={item.id}
               id={item.id}
               name={item.name}
               image={item.image}
-              new_price={item.new_price}
-              old_price={item.old_price}
+              new_price={item.price}
+              old_price={item.oldPrice}
             />
           );
         })}
