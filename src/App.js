@@ -18,7 +18,7 @@ import Wishlist from "@/pages/Wishlist";
 import Checkout from "@/pages/Checkout";
 import Collections from "@/pages/Collections";
 import Orders from "@/pages/Orders";
-import Contact from "./pages/Contact";
+import Contact from "./Pages/Contact";
 import About from "./pages/About";
 import Shipping from "./pages/Shipping";
 import Returns from "./pages/Returns";
