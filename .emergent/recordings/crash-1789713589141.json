@@ -1,0 +1,1 @@
+{"kind":"crash","note":"","url":"/","viewport":{"w":1912,"h":948},"error":{"kind":"rejection","message":"Network Error","file":"","stack":"AxiosError: Network Error\n    at XMLHttpRequest.handleError (http://localhost:3000/static/js/bundle.js:56039:19)","frame":null},"recorder":"off","captured_at":"2026-09-18T06:39:49.141Z","events":[]}
